@@ -1,0 +1,16 @@
+{
+  "name": "multi-tool-assistant-agent-google-adk-typescript",
+  "version": "1.0.0",
+  "description": "Multi-Tool Assistant Agent",
+  "main": "agent.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@google/adk": "^0.2.1",
+    "@google/adk-devtools": "^0.2.0"
+  }
+}
