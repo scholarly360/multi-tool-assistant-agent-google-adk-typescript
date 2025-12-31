@@ -108,3 +108,6 @@ npx @google/adk-devtools web
 - "Convert the text 'Hello World' to uppercase"
 - "Generate a random number between 1 and 100"
 - "Count the words in this sentence: The quick brown fox jumps over the lazy dog"
+
+## YouTube Video
+[Multi-Tool Assistant Agent](https://www.youtube.com/watch?v=NCF9dYf4hME)
